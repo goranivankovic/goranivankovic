@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on with other content creators
 - 🤔 I’m looking for help with PHP projects
 - 💬 Ask me about coding 
-- 📫 How to reach me: gogadesign
+- 📫 How to reach me: http://gogadesign.uk/
 - ⚡ Fun fact: I love to listen to music and hang out with my friends
 - email : goranivankovic87@gmail.com
 
 
 
 Languages and Tools:
-Visual Studio Code HTML5CSS3SassavaScriptReactNode.jsSQLMySQLMongoDBGitGitHubTerminal
+Visual Studio CodeHTML5CSS3SassavaScriptReactNode.jsSQLMySQLMongoDBGitGitHubTerminal
 
 
 
