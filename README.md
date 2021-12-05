@@ -1,6 +1,6 @@
 ### Hello World, I'm Goran Ivankovic  👋
 
- <img align="right" alt="GIF" src="https://github.com/goranivankovic/goranivankovic/blob/main/coder.gif?raw=true" width="500" height="420" />
+ <img align="right" alt="GIF" src="https://github.com/goranivankovic/goranivankovic/blob/main/coder.gif?raw=true" width="500" height="380" />
 
 
 ## I'm a Developer, Creator!!
@@ -14,13 +14,13 @@
 
 
 
-### Love to talk with you : [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Love to talk with you : 
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 ### Languages and Tools:
 
