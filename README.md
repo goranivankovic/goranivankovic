@@ -1,9 +1,5 @@
-### Hi there 👋
 
 
-**goranivankovic/goranivankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
   Hi there, I'm Goran  Ivankovic 👋 I'm a FULLSTACK, Developer!!
   
@@ -16,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to listen to music and hang out with my friends
 - email : goranivankovic87@gmail.com
-- Goran Ivanković | LinkedIn
+- Goran_Ivanković | LinkedIn
 
-Languages and Tools:
-Visual Studio CodeHTML5CSS3CSharpJavaScriptReactNode.jspythonflaskSQLpostgreSQLGitGitHubDockerTerminal
+-Visual Studio CodeHTML5CSS3CSharpJavaScriptReactNode.jspythonflaskSQLpostgreSQLGitGitHubDockerTerminal
 
 
 ⚡ Recent GitHub Activity
