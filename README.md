@@ -14,7 +14,7 @@
 - email : goranivankovic87@gmail.com
 - Goran_Ivanković | LinkedIn
 
--Visual Studio CodeHTML5CSS3CSharpJavaScriptReactNode.jspythonflaskSQLpostgreSQLGitGitHubDockerTerminal
+Visual Studio CodeHTML5CSS3CSharpJavaScriptReactNode.jspythonflaskSQLpostgreSQLGitGitHubDockerTerminal
 
 
 ⚡ Recent GitHub Activity
