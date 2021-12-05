@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to listen to music and hang out with my friends
 - email : goranivankovic87@gmail.com
-- Goran_Ivanković | LinkedIn
+- holisitc_developer | LinkedIn
 
 Visual Studio CodeHTML5CSS3CSharpJavaScriptReactNode.jspythonflaskSQLpostgreSQLGitGitHubDockerTerminal
 
