@@ -5,8 +5,8 @@
 
 ## I'm a Developer, Creator!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on NEXT.js blog
-- 🌱 I’m currently learning material ui
+- 🔭 I’m currently working on NEXT.js blog site
+- 🌱 I’m learning material ui
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
