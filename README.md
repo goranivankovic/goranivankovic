@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with PHP projects
 - 💬 Ask me about coding 
 - 📫 How to reach me: http://gogadesign.uk/
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to listen to music and hang out with my friends
 - email : goranivankovic87@gmail.com
-
-
+- Goran Ivanković | LinkedIn
 
 Languages and Tools:
-Visual Studio CodeHTML5CSS3SassavaScriptReactNode.jsSQLMySQLMongoDBGitGitHubTerminal
-
+Visual Studio CodeHTML5CSS3CSharpJavaScriptReactNode.jspythonflaskSQLpostgreSQLGitGitHubDockerTerminal
 
 
 ⚡ Recent GitHub Activity
