@@ -50,5 +50,5 @@
 </details>
 
 [website]: https://gogadesign.uk/
-[linkedin]: https://linkedin.com/in/goranivankovic
-[portfolio]: https://arsentieva.github.io/profile/
+[linkedin]: https://www.linkedin.com/in/goran-ivankovi%C4%87-86b19b1b9/
+[portfolio]: https://goran-portfolio.netlify.app/
