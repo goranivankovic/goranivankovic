@@ -1,6 +1,6 @@
 ### Hello World, I'm Goran Ivankovic  👋
 
- <img align="right" alt="GIF" src="https://github.com/goranivankovic/goranivankovic/blob/main/coder.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/goranivankovic/goranivankovic/blob/main/coder.gif?raw=true" width="500" height="420" />
 
 
 ## I'm a Developer, Creator!!
