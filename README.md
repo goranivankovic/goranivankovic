@@ -57,6 +57,6 @@
 
 </details>
 
-[website]: https://gogadesign.uk/
+[website]: https://gomadesign.netlify.app/
 [linkedin]: https://www.linkedin.com/in/goran-ivankovi%C4%87-86b19b1b9/
-[portfolio]: https://gogadesign.uk/
+[portfolio]: https://goranivankovic.netlify.app/
